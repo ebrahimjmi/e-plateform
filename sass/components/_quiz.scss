@@ -1,0 +1,21 @@
+.quiz-app-body {
+  background: #ccc;
+}
+.quiz-app {
+  max-width: 600px;
+  background: #fff;
+  margin: 100px auto 0;
+  padding: 30px;
+  border-radius: 10px;
+}
+.correct {
+  background-color: aquamarine;
+}
+.incorrect {
+  background: red;
+}
+button {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 4px 9px;
+}

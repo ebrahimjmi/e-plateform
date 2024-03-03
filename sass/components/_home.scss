@@ -1,0 +1,11 @@
+.learning-box {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.learning-box {
+    a{
+        &:hover {
+            opacity: .5;
+        }
+    }
+}
